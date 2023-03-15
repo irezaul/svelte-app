@@ -19,7 +19,7 @@
     <Route path="/dashboard">
       <Dashboard />
     </Route>
-    <Route path="*">
+    <Route path="/svelte-app/*">
       <NotFound />
     </Route>
   </Router>
