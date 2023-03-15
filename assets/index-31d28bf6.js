@@ -26,7 +26,7 @@ Occurred in: ${o}`:"",l=Jt(t),u=ve(e)?e(l):e;return`<${l}> ${u}${s}`}const Te=t=
 
                         <div><div class="flex items-center justify-between"><label for="" class="text-base font-medium text-gray-900">Password</label> 
 
-                                <a href="#" title="" class="text-sm font-medium text-blue-600 hover:underline hover:text-blue-700 focus:text-blue-700">Forgot password?</a></div> 
+                                <a href="/" title="" class="text-sm font-medium text-blue-600 hover:underline hover:text-blue-700 focus:text-blue-700">Forgot password?</a></div> 
                             <div class="mt-2.5"><input type="password" name="" id="" placeholder="Enter your password" class="block w-full p-4 text-black placeholder-gray-500 transition-all duration-200 border border-gray-200 rounded-md bg-gray-50 focus:outline-none focus:border-blue-600 focus:bg-white caret-blue-600"/></div></div> 
 
                         <div><button type="submit" class="inline-flex items-center justify-center w-full px-4 py-4 text-base font-semibold text-white transition-all duration-200 bg-blue-600 border border-transparent rounded-md focus:outline-none hover:bg-blue-700 focus:bg-blue-700">Log in</button></div></div></form></div></div> 
