@@ -1,4 +1,4 @@
-# Svelte + Vite
+# Svelte 
 
 ## Process
 * Create a svelte project by blank or chosse on a tamplate 
