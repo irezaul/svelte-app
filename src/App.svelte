@@ -1,11 +1,12 @@
 <script>
-  import Header from './lib/Header.svelte';
+    import Routes from "./lib/Routes.svelte";
+
+   
 </script>
 
+
 <main>
-  
-<Header />
-  This is Main page
+<Routes />
 </main>
 
 <style>
