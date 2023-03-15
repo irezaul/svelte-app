@@ -3,12 +3,8 @@
 
    
 </script>
-
-
 <main>
-<Routes />
-</main>
+  <Routes />
+  
 
-<style>
- 
-</style>
+</main>
