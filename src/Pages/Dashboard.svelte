@@ -1,3 +1,8 @@
+<script>
+    
+</script>
+
+
 <div class="overflow-x-auto">
     <table class="min-w-full divide-y-2 divide-gray-200 text-sm">
       <thead>
